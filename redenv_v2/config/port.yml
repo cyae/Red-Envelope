@@ -1,0 +1,3 @@
+port: 8848
+bucket_fill_during: 2
+bucket_max: 2000
